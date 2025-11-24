@@ -55,5 +55,4 @@ Lifestyle patterns played a major role in overall mental health
 This project uses both statistical analysis and interactive visual analytics to understand mental health patterns.
 The combination of Python EDA and Power BI Dashboard provides a strong, practical approach for deriving insights from real-world mental health data.
 <img width="764" height="427" alt="mental disoorders" src="https://github.com/user-attachments/assets/1da94eba-074d-448c-af6b-77d482434dd7" />
-<img width="764" height="427" alt="mental disoorders" src="https://github.com/user-attachments/assets/c5b3454b-6148-4404-bedf-54b789418c01" />
-<img width="764" height="427" alt="mental disoorders" src="https://github.com/user-attachments/assets/ee5f0849-2552-4d55-9c85-ab961ecaec30" />
+
