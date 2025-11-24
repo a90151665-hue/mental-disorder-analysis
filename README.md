@@ -1,7 +1,12 @@
  mental-disorder-analysis
+ 
  This project focuses on analyzing a Mental Disorders dataset using Exploratory Data Analysis (EDA) in Google Colab, followed by building an interactive dashboard in Power BI to visualize insights.
+ 
 The goal is to understand behavioral, demographic, and lifestyle factors that may influence different mental health conditions.
-This Project Includes                                                                                                                                                                                                                   1,Exploratory Data Analysis (EDA) in Google Colab
+
+This Project Includes
+
+1,Exploratory Data Analysis (EDA) in Google Colab
 
 Understanding dataset structure
 
@@ -30,6 +35,7 @@ Lifestyle factors
 Trends & patterns
 
 KPIs and slicers for easy exploration
+
 The EDA performed in Google Colab includes:
 
 Data loading and inspection
