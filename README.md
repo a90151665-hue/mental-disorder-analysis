@@ -1,4 +1,4 @@
- mental-disorder-analysis
+ Mental-Disorder-Analysis
  
  This project focuses on analyzing a Mental Disorders dataset using Exploratory Data Analysis (EDA) in Google Colab, followed by building an interactive dashboard in Power BI to visualize insights.
  
